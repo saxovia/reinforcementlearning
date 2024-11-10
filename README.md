@@ -1,2 +1,2 @@
 # reinforcementlearning
-Course material from A_lto University
+Course material from A_lto University regarding Reinforcement Learning.
